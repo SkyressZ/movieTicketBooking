@@ -1,0 +1,3 @@
+SPI Cinemas,Screen 1,Box,40,Balcony,40,Elite,0,Gold,80,Silver,40
+SPI Cinemas,Screen 2,Box,40,Balcony,40,Elite,0,Gold,80,Silver,40
+Baba Cinemas,Screen 1,Box,0,Balcony,0,Elite,0,Gold,80,Silver,40

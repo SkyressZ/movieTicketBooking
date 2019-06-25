@@ -1,0 +1,5 @@
+SPI Cinemas,180,150,120,200,250
+Sathyam Cinemas,200,150,120,220,250
+SDC Cinemas,150,120,90,200,220
+Baba Cinemas,180,150,120,200,250
+Central Cinemas,150,100,80,180,200

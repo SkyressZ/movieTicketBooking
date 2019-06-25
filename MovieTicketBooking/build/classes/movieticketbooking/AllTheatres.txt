@@ -1,0 +1,5 @@
+SPI Cinemas,Coimbatore,9879879876
+Sathyam Cinemas,Chennai,6787898900
+SDC Cinemas,Chennai,7897897890
+Baba Cinemas,Chennai,8989989888
+Central Cinemas,Coimbatore,8989989899
